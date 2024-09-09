@@ -1,4 +1,17 @@
-The footer uses a `<footer>` tag with three main sections:
+# Footer Template Documentation
+
+This is a simple responsive footer template created using **HTML** and **CSS**. It consists of three main sections: About Us, Quick Links, and Contact Us.
+
+## Features
+- **Responsive Design**: The footer is designed to adjust based on screen size, making it mobile-friendly.
+- **Three Sections**:
+  - **About Us**: A brief description about the website/company.
+  - **Quick Links**: Provides easy access to key sections of the website.
+  - **Contact Us**: Displays basic contact information such as email and phone number.
+- **Footer Bottom**: Contains copyright information.
+
+## HTML Structure
+- The footer uses a `<footer>` tag with three main sections:
   1. `.about`: Contains information about the website/company.
   2. `.links`: A list of quick links to important pages.
   3. `.contact`: Displays contact details.
